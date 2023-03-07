@@ -1,2 +1,2 @@
-# Mis-Proyectos
-Codigo Reaizado por mi persona con motivos de practica y aprendizaje de multiples lenguajes de Programacion 
+# CRUD PHP PURO
+Crud con modulo de seguridad para sistema de gestion de ventas
